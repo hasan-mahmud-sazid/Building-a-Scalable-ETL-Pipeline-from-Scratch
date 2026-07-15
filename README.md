@@ -207,67 +207,6 @@ Every execution stage is recorded with timestamps for auditing purposes.
 * ETL Job Finished
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Data-Engineering-Foundation.git
-```
-
-Move into the project directory:
-
-```bash
-cd Data-Engineering-Foundation
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# Requirements
-
-```text
-pandas
-requests
-beautifulsoup4
-lxml
-```
-
-Install manually:
-
-```bash
-pip install pandas requests beautifulsoup4 lxml
-```
-
----
-
-# Running the Projects
-
-Run the ETL pipeline:
-
-```bash
-python etl_pipeline.py
-```
-
-Run the web scraping pipeline:
-
-```bash
-python web_scraping_pipeline.py
-```
-
-Run the SQLite database example:
-
-```bash
-python sqlite_database.py
-```
-
----
-
 # Learning Outcomes
 
 By completing these projects, you will understand how to:
@@ -295,16 +234,5 @@ By completing these projects, you will understand how to:
 * Schedule pipelines using cron or Airflow
 * Add CI/CD with GitHub Actions
 
----
-
-# Author
-
-**Your Name**
-
-Aspiring **Data Engineer | Data Analyst | Python Developer**
-
----
-
 # License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it for educational and personal purposes.
+This project is from Coursera.
